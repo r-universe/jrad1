@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "combat.enigma"]
+	path = combat.enigma
+	url = https://github.com/cran/combat.enigma
 [submodule "multisite.accuracy"]
 	path = multisite.accuracy
 	url = https://github.com/cran/multisite.accuracy
