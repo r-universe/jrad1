@@ -8,3 +8,6 @@
 [submodule "multisite.accuracy"]
 	path = multisite.accuracy
 	url = https://github.com/cran/multisite.accuracy
+[submodule "nifti.pbcor"]
+	path = nifti.pbcor
+	url = https://github.com/cran/nifti.pbcor
