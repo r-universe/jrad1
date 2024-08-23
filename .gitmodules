@@ -5,9 +5,15 @@
 [submodule "combat.enigma"]
 	path = combat.enigma
 	url = https://github.com/cran/combat.enigma
+[submodule "metansue"]
+	path = metansue
+	url = https://github.com/cran/metansue
 [submodule "multisite.accuracy"]
 	path = multisite.accuracy
 	url = https://github.com/cran/multisite.accuracy
 [submodule "nifti.pbcor"]
 	path = nifti.pbcor
 	url = https://github.com/cran/nifti.pbcor
+[submodule "occ"]
+	path = occ
+	url = https://github.com/cran/occ
