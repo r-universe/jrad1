@@ -5,6 +5,9 @@
 [submodule "combat.enigma"]
 	path = combat.enigma
 	url = https://github.com/cran/combat.enigma
+[submodule "easy.glmnet"]
+	path = easy.glmnet
+	url = https://github.com/cran/easy.glmnet
 [submodule "metansue"]
 	path = metansue
 	url = https://github.com/cran/metansue
